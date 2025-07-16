@@ -1,2 +1,2 @@
-este é um teste para uma ferramenta de automacao de codigo paraprogramadores da consulteer no porto
+este é um teste para uma ferramenta de automacao de codigo paraprogramadores da consulteer 
 
